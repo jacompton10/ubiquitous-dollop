@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Article",
   "number": "",
   "title": "Math 232 Lecture Notes",
-  "body": " Math 232 Lecture Notes  Finding the formula for area between curves: \\vspace{5cm} Example 1. Find the area between the lines and over the interval . \\vvs{3} Example 2. Find the area bounded between the curves and . \\vvs{3} Example 3. Find the area between the graphs of and on the interval . \\vvs{4} Example 4. Find the area of the region bounded by the curves and and the -axis. \\vvs{4} Regions defined with respect to : \\vvs{3} Example 5. Find the area of the region bounded by the curves and and the -axis. \\vvs{5} Example 6. Find the area of the region bounded by the curves and and the -axis.  "
+  "body": " Math 232 Lecture Notes  Finding the formula for area between curves:  Example 1. Find the area between the lines and over the interval .  Example 2. Find the area bounded between the curves and .  Example 3. Find the area between the graphs of and on the interval .  Example 4. Find the area of the region bounded by the curves and and the -axis.  Regions defined with respect to :  Example 5. Find the area of the region bounded by the curves and and the -axis.  Example 6. Find the area of the region bounded by the curves and and the -axis.  "
 }
 ]
 
