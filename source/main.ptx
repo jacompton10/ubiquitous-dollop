@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <docinfo>
+
+    <document-id>Compton</document-id>
+
+    <macros>\newcommand{\foo}{b^{ar}}</macros>
+    <macros>\newcommand{\vvs}[1]{\vspace{#1 cm}}</macros>
+    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+  </docinfo>
+
+  <article xml:id="shorttitlelowercase">
+    <title>Math 232 Lecture Notes</title>
+<p>Finding the formula for area between curves:</p>
+\vspace{5cm}
+
+<p>Example 1. Find the area between the lines <m>f(x) = .5x+5</m> and <m>g(x)=x+.5</m> over the interval <m> [1,5]</m>.</p>
+\vvs{3}
+
+<p>Example 2. Find the area bounded between the curves <m>f(x) = 9-(x/2)^2</m> and <m>g(x) = 6-x</m>. </p>
+\vvs{3}
+
+<p>Example 3. Find the area between the graphs of <m>f(x) = \sin x</m> and <m>g(x) = \cos x</m> on the interval <m>[0,\pi]</m>.</p>
+\vvs{4}
+
+<p>Example 4. Find the area of the region bounded by the curves <m>f(x) = x^2</m> and <m>g(x) = 2 - x</m> and the <m>x</m>-axis.</p>
+\vvs{4}
+
+<p>Regions defined with respect to <m>y</m>:</p>
+\vvs{3}
+
+<p>Example 5. Find the area of the region bounded by the curves <m>f(x) = x^2</m> and <m>g(x) = 2 - x</m> and the <m>x</m>-axis.</p>
+\vvs{5}
+
+<p>Example 6. Find the area of the region bounded by the curves <m>f(x) = \sqrt{x}</m> and <m>g(x) = \frac{3-x}{2}</m> and the <m>x</m>-axis.</p>
+
+  </article>
+
+</pretext>
